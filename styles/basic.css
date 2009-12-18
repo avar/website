@@ -1,0 +1,48 @@
+body {
+  background-color: transparent;
+  color: #000;
+  margin: 0px;
+}
+
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+pre, pre strong, code, code strong {
+	font-family: monospace;
+}
+
+li, div, p, td {
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h1, h2, h3 {
+    margin: 0.5em 0em;
+}
+
+#header {
+	background-color: #ffa;
+	color: #000;
+	border-bottom: 1px solid black;
+	padding: 5px
+}
+
+#content {
+  padding: 0px 10px 10px 10px
+}
+
+#oid * {
+	font-size: smaller;
+}

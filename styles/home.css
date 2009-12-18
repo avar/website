@@ -1,0 +1,100 @@
+body {
+	background: url('/img/home_bg.gif') no-repeat center right fixed;
+}
+
+a {
+	color: #033;
+	background: transparent;
+}
+
+a:hover {
+	color: #330; 
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li:before {
+	content: "\2767\20";
+	text-indent: 4em;
+}
+
+#online {
+	margin-left: 2em;
+}
+
+.service_icon {
+	padding-left: 1em;
+}
+
+#tagline {
+	width: 66%;
+	font-size: smaller;
+}
+
+#banner {
+	text-align: center;
+	margin: 1em 0em;
+}
+
+#friendfeed_container {
+	width: 30%;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.friendfeed.widget {
+	width: 300px !important;
+}
+
+.friendfeed.widget, 
+.friendfeed.widget div,
+.friendfeed.widget span,
+.friendfeed.widget img,
+.friendfeed.widget table,
+.friendfeed.widget tr,
+.friendfeed.widget td {
+	background: transparent !important;
+}
+.friendfeed.widget .feed .entry {
+	background: #000;
+	opacity: 0.75;
+}
+
+.friendfeed.widget .feed .entry .comments .comment,
+.friendfeed.widget .feed .entry .body .link {
+	background: #fff !important;
+	opacity: 1;
+	font-style: italic;
+	white-space: normal !important;
+}
+
+#downlode10 {
+	position: fixed;
+	z-index: 3;
+	top: 40px;
+	right: 10px;
+}
+
+.note {
+	font-size: smaller;
+}
+
+#badges, #embeds_other {
+	text-align: center;
+}
+
+#badges {
+	margin: 1em;
+}
+
+#badges a img, #embeds_other a img, #banner a img {
+    border: 0px;
+}
+
+.divider {
+	text-align: center;
+	width: 90%;
+	margin: 1em 0em;
+}
