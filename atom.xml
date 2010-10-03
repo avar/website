@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Ævar Arnfjörð Bjarmason</title>
+ <link href="http://xn--var-xla.net/atom.xml" rel="self"/>
+ <link href="http://xn--var-xla.net/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://xn--var-xla.net/</id>
+ <author>
+   <name>Ævar Arnfjörð Bjarmason</name>
+   <email>avarab@gmail.com</email>
+ </author>
+
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://anilwadghule.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://xn--var-xla.net.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>

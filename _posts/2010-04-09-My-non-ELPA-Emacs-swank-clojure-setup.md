@@ -1,7 +1,8 @@
-Title: My non-ELPA Emacs swank-clojure setup
-Date: 2010-04-07 21:12
-Tags: clojure, Emacs, ELPA, swank-clojure
-
+---
+title: My non-ELPA Emacs swank-clojure setup
+layout: post
+tags: clojure, Emacs, ELPA, swank-clojure
+---
 I stubbornly refuse to use ELPA. I keep
 [my ~/.emacs](http://github.com/avar/dotemacs) and
 [associated libraries](http://github.com/avar/elisp) in Git, and don't
@@ -37,8 +38,7 @@ Add autoloads + massive hack to get all of this to work:
 
     (autoload 'clojure-mode "clojure-mode" nil t) 
     (autoload 'clojure-test-mode "clojure-test-mode" nil t) 
-    (defvar package-activated-list nil "Hack: used in 
-`slime-changelog-date' but not defined anywhere") 
+    (defvar package-activated-list nil "Hack: used in `slime-changelog-date' but not defined anywhere") 
     (progn 
       (autoload 'swank-clojure-init "swank-clojure") 
       (autoload 'swank-clojure-slime-mode-hook "swank-clojure") 
