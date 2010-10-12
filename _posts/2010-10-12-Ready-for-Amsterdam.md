@@ -16,4 +16,9 @@ I've got everything I need packed into approximately 30L of a single
 60L backback. Just cloathing, my laptop and camera. Everything else
 I'm either going to rent or buy once I get there.
 
+I'll most likely be getting an apartment to share with
+[Steffen Müller](http://steffen-mueller.net/). I'm already in contact
+with housing agents on the ground that have viewings lined up for me
+once I get there.
+
 Wish me luck.
