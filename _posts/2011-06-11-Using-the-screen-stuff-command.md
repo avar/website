@@ -1,5 +1,5 @@
 ---
-title: Using the screen(1) `stuff` command
+title: Using the screen(1) stuff command
 layout: post
 tags: Unix, GNU, screen
 ---
