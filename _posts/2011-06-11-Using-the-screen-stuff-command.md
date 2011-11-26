@@ -14,8 +14,4 @@ command until recently, but now I don't have to manually run
 e.g. `screen -rx` to connect to these nested screens, or cd to some
 directory.
 
-See
-[this commit to my dotfiles.git](https://github.com/avar/dotfiles/commit/28da7b7ddceb32cde0b7b6642af5df9f6e4efdec)
-for the small change I made.
-
 It's really handy.
