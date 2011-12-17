@@ -37,3 +37,14 @@ Observations for the first few hours, in no particular order:
  
  * Nobody is amazed that I'm from Iceland. This happens in every other
    country in the world, but not here. What gives?
+   
+ * The water here is actually good enough that I'll drink it. I have
+   to start buying bottled water in Amsterdam.
+   
+ * I've been reading
+   [Boomerang: Travels in the New Third World](http://www.amazon.com/Boomerang-Travels-New-Third-World/dp/0393081818)
+   by Michael Lewis on Darren's recommendation. I'm 60% through
+   it. The first 1/4 is about the Icelandic collapse, it also covers
+   Greece & Ireland. It's the best account of those collapses I've
+   read yet. This book really needs an Icelandic translation, but it
+   doesn't appear that one exists.
