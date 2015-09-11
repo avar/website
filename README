@@ -1,0 +1,7 @@
+This thing is generated with jekyll, to set that up do:
+
+    sudo aptitude install ruby-rdiscount jekyll
+
+And to built it do:
+
+    jekyll build -s ~/g/website -d /var/www/xn--var-xla.net/
